@@ -1,0 +1,115 @@
+{
+  "version": 2,
+  "template_version": "ba56c49d796df3fbd899",
+  "page_size": 20,
+  "site_id": "ee829563b2dd306123d2ae65",
+  "owner": "trvmrbhaw",
+  "repo": "page-0f5ebe5fab35deccce358aab",
+  "title": "Clash Mi服务商官网",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "0f5ebe5fab35deccce358aab",
+      "a": "IPLCCloud",
+      "b": "Clash Mi服务商官网",
+      "entity": "IPLCCloud",
+      "brand": "Clash Mi服务商官网",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "d02d49c0147b45ee8c0a28a78b0a2b27525507d0ada42cd3697d1676e8ef9dde",
+      "content": {
+        "primary_entity": "IPLCCloud",
+        "keyword1": "IPLCCloud",
+        "keyword2": "Clash Mi服务商官网",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备选择客户端，Windows 可选 Clash Verge，macOS 可选 ClashX Pro，Android 可选 Clash Meta for Android，iOS 可选 Shadowrocket 或 Stash。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLOSING_TEXT": "先明确设备数量与月流量需求，再选基础版、旗舰版或团队版；选好后按客户端文档导入订阅即可开始使用。",
+          "AI_CLOSING_TITLE": "选对套餐，轻松接入",
+          "AI_DESCRIPTION": "，IPLCCloud 提供基础版、旗舰版与团队版三档订阅，月付分别为 ¥15、¥35 与 ¥85，年付可享 ¥150、¥350 与 ¥850 的优惠价格；流量从 100GB 到 1000GB，设备数从 3 台到 20 台逐级提升，旗舰版额外带 IPLC 专线游戏加速与全节点原生流媒体解锁，团队版则提供 VIP 专属高带宽节点与企业定制路由，可按实际设备数量与使用场景灵活选择。",
+          "AI_FEATURES_INTRO": "从套餐选择、设备需求与订阅周期三个角度梳理 IPLCCloud 的使用要点，方便快速定位合适的方案。",
+          "AI_FEATURES_TITLE": "选择套餐时关注的三个方面",
+          "AI_FEATURE_TEXT_1": "基础版适合 1 至 3 台设备、月流量 100GB 以内的轻度使用，年付 ¥150 更划算。",
+          "AI_FEATURE_TEXT_2": "旗舰版支持 5 台设备与 300GB 流量，含 IPLC 专线与全节点流媒体解锁。",
+          "AI_FEATURE_TEXT_3": "团队版面向 20 台设备与 1000GB 流量场景，支持企业定制路由与客户经理服务。",
+          "AI_FEATURE_TITLE_1": "套餐选择",
+          "AI_FEATURE_TITLE_2": "设备需求",
+          "AI_FEATURE_TITLE_3": "订阅周期",
+          "AI_GUIDE_INTRO": "按三步完成从选择服务到配置订阅的过程，每步都围绕实际使用场景展开。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "IPLCCloud 提供基础版、旗舰版与团队版三档订阅，月付价格从 ¥15 到 ¥85，年付可享 ¥150 至 ¥850 的优惠；流量覆盖 100GB 到 1000GB，支持 3 到 20 台设备同时在线，旗舰版含 IPLC 专线游戏加速与全节点原生流媒体解锁，团队版支持企业定制路由与专属客户经理服务。",
+          "AI_HERO_SUBTITLE": "三档订阅，按设备与流量灵活选择",
+          "AI_HIGHLIGHT_1": "月付最低 ¥15，年付享优惠",
+          "AI_HIGHLIGHT_2": "支持 3 至 20 台设备在线",
+          "AI_HIGHLIGHT_3": "旗舰版含 IPLC 专线加速",
+          "AI_PLANS_INTRO": "基础版、旗舰版与团队版覆盖从个人到团队的不同需求，月付 ¥15 起，年付 ¥150 起，流量与设备数随版本逐级提升。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据设备数量和每月所需流量，在基础版、旗舰版与团队版之间选择合适的一档。",
+          "AI_STEP_TEXT_2": "确认所选套餐的支持设备数与流量额度，查看对应客户端对系统的适配要求。",
+          "AI_STEP_TEXT_3": "在所选客户端中新建订阅，将 IPLCCloud 提供的订阅地址粘贴到对应输入框保存。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "IPLCCloud 订阅选择",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "IPLCCloud 支持哪些客户端？",
+          "AI_FAQ_ANSWER_1": "常见客户端如 Clash、Shadowrocket、v2rayN、Surge 等均可按文档导入订阅，具体以所用设备系统为准，建议先确认客户端是否支持订阅链接。",
+          "AI_FAQ_QUESTION_2": "基础版和旗舰版主要区别是什么？",
+          "AI_FAQ_ANSWER_2": "基础版每月 100GB、支持 3 台设备；旗舰版每月 300GB、支持 5 台设备，并带有 IPLC 专线游戏加速优化与 7x24 优先工单支持。",
+          "AI_FAQ_QUESTION_3": "团队版适合什么场景？",
+          "AI_FAQ_ANSWER_3": "团队版每月 1000GB、支持 20 台设备同时在线，提供 VIP 专属高带宽节点、企业定制路由和专属客户经理服务，适合多人协作或小型团队共用。",
+          "AI_FAQ_QUESTION_4": "年付比月付省多少？",
+          "AI_FAQ_ANSWER_4": "按年付基础版 ¥150、旗舰版 ¥350、团队版 ¥850，相比按月支付可减少两个月的费用支出，长期使用更划算。",
+          "AI_FAQ_QUESTION_5": "如何配置订阅？",
+          "AI_FAQ_ANSWER_5": "选定套餐并确认设备适配后，打开对应客户端，按文档导入订阅地址，保存并选择节点即可连接。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "b116e38ece46972123f6c3f686fc7589e49e47ddb9caec17c608cba88e0f9825",
+    "sitemap.xml": "67c37a64aedcf3f29bb2941b84d04dc4d9420d21985be68b5e81f83a85d0bdc5",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "7175c0febe2f181dbce0eb0a2c3f9d0c5a3e80809ad2f3e1c4ff1d845977fafe"
+}
